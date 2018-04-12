@@ -10,7 +10,7 @@ Hand in your solution by
 2. Put your code inside a directory "<YOUR_USERNAME>"
 3. Create a merge request
 
-The solutions will be discussed Monday, 14:00.
+The solutions will be discussed Monday at 16:00, Konferenzraum 1.OG.
 
 ## Exercise 1: UTF-8 Encoding Scheme
 
