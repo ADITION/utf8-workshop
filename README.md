@@ -22,7 +22,7 @@ Write a function in a programming language of your choice which displays a unico
 
 ## Exercise 3:
 
-Get the file `titles.txt`. Inspect it with `xxb` (or `xxb -b`). Can you guess the encoding of the document? Hint: It has a fixed size of 8 bits per word.
+Get the file `titles.txt`. Inspect it with `xxd` (or `xxd -b`). Can you guess the encoding of the document? Hint: It has a fixed size of 8 bits per word.
 
 Write a function that reads a sequence of binary and outputs the corresponding UTF-8 character. Use the function to convert the document to UTF-8.
 
